@@ -15,8 +15,8 @@ The frontend is built using React, Tailwind CSS, React Context API, and React Ro
 
 ## Getting Started
 
-1.  **Clone the repository:** `git clone https://github.com/thisisdkyadav/hostel-management-system-frontend`
-2.  **Navigate to the frontend directory:** `cd hostel-management-system-frontend`
+1.  **Clone the repository:** `git clone https://github.com/tanmaisai1208/hostel-management-system/hostel-management-system-frontend`
+2.  **Navigate to the frontend directory:** `cd hostel-management-system/hostel-management-system-frontend`
 3.  **Install dependencies:** `npm i`
 4.  **Run the development server:** `npm run dev`
 
